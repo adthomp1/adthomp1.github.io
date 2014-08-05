@@ -1,13 +1,13 @@
+- topic: Libre Office, an alternative to Microsoft Office
+  filename: c-compare.html
+  child: false
+  publish: true
+
 - topic: How to download and install
   filename: t-installing.html
   child: false
   publish: true
   
-- topic: Libre Office vs Microsoft Office
-  filename: c-compare.html
-  child: false
-  publish: true
-
 - topic: How to create a Writer Document
   filename: t-writer.html
   child: false
