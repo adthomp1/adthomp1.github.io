@@ -1,9 +1,19 @@
-- topic: A Guide to the Basics of Libre Office 4.3
-  filename: c-intro.html
+- topic: How to download and install
+  filename: t-installing.html
   child: false
   publish: true
 
-- topic: How to download and install
-  filename: t-installing.html
+- topic: How to create a Writer Document
+  filename: t-writer.html
+  child: false
+  publish: true
+
+- topic: How to create a Calc Spreadsheet
+  filename: t-calc.html
+  child: false
+  publish: true
+
+- topic: How to create an Impress Presentation
+  filename: t-impress.html
   child: false
   publish: true
